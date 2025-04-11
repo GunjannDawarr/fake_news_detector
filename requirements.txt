@@ -5,3 +5,5 @@ joblib
 scikit-learn
 pandas
 numpy
+newspaper3k
+lxml[html_clean]
